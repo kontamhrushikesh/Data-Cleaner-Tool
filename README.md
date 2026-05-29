@@ -1,9 +1,9 @@
 Data Cleaner Tool
 
-Overview
+Overview-
 Data Cleaner Tool is a Python-based utility designed to clean and preprocess CSV datasets efficiently. It automates common data-cleaning operations, helping users prepare datasets for analysis and reporting.
 
-Features
+Features-
 Load CSV files
 Remove duplicate records
 Handle missing values
@@ -11,11 +11,11 @@ Clean and standardize data
 Export cleaned data to a new CSV file
 Simple command-line interface
 
-Technologies Used
+Technologies Used-
 Python 3.13.x
 Pandas
 
-Project Structure
+Project Structure-
 Data Cleaner Tool/
 ├── Data_cleaner.py
 ├── unclean_data.csv
@@ -23,14 +23,14 @@ Data Cleaner Tool/
 ├── .gitignore
 └── README.md
 
-Installation
+Installation-
 Clone the repository.
 Navigate to the project directory.
 Install the required dependency:
 pip install pandas
 Usage
 
-Run the application:
+Run the application-
 python Data_cleaner.py
 When prompted, enter the path to your CSV file.
 Example:
@@ -40,7 +40,7 @@ The cleaned dataset will be processed
 Then you will be asked to enter the path to save clean data file
 
 **Learning Outcomes**
-This project helped me gain hands-on experience with:
+This project helped me gain hands-on experience with-
 Python programming
 File handling
 Data preprocessing
