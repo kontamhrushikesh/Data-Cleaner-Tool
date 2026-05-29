@@ -1,0 +1,5 @@
+movie_title,num_critic_for_reviews,duration,DIRECTOR_facebook_likes,actor_3_facebook_likes,ACTOR_1_facebook_likes,gross,num_voted_users,Cast_Total_facebook_likes,facenumber_in_poster,num_user_for_reviews,budget,title_year,ACTOR_2_facebook_likes,imdb_score,title_year.1
+Spectre?�,602,148.0,20,161,11000,200074175,275868.0,11700.0,1.0,994,245000000,2015,393.0,6.8,2015.0
+Avengers: Age of Ultron?�,635,141.0,10,19000,26000,458991599,462669.0,92000.0,4.0,1117,250000000,2015,21000.0,7.5,2015.0
+Quantum of Solace?�,403,106.0,395,393,451,168368427,330784.0,2023.0,1.0,1243,200000000,2008,412.0,6.7,2008.0
+Pirates of the Caribbean: Dead Man's Chest?�,313,151.0,563,1000,40000,423032628,522040.0,48486.0,2.0,1832,225000000,2006,5000.0,7.3,2008.0
