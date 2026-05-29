@@ -29,7 +29,7 @@ Navigate to the project directory ->
 Install the required dependency:
 1>pip install pandas
 
-Usage
+Usage-
 Run the tool
 (python Data_cleaner.py)
 When prompted, enter the path to your CSV file.
