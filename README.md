@@ -1,4 +1,4 @@
-Data Cleaner Tool
+Data Cleaner Tool                                                                                                                                                                                                                       
 📌 Overview
 Data Cleaner Tool is a Python-based utility designed to clean and preprocess CSV datasets efficiently.
 The tool helps users prepare raw datasets for analysis by automating common data-cleaning tasks such as removing duplicate records, handling missing values, standardizing data, and exporting the cleaned output into a new CSV file.
