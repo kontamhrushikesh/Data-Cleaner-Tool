@@ -40,11 +40,11 @@ The cleaned dataset will be processed
 Then you will be asked to enter the path to save clean data file
 
 **Learning Outcomes**
-This project helped me gain hands-on experience with-
-Python programming
-File handling
-Data preprocessing
-Pandas library
+This project helped me gain hands-on experience with- 
+1> Python programming
+2> File handling
+3> Data preprocessing
+4> Pandas library
 Git and GitHub workflow
 
 Author
