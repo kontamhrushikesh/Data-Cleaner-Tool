@@ -12,7 +12,7 @@ Export cleaned data to a new CSV file,
 Simple command-line interface.
 
 Technologies Used-
-Python 3.13.x
+Python 3.13.x,
 Pandas
 
 Project Structure-
