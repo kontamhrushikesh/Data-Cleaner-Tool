@@ -163,7 +163,7 @@ It serves as a foundational project for learning Data Analytics, Data Science, a
 **Hrushikesh Kontam**
 
 * GitHub: https://github.com/kontamhrushikesh
-* LinkedIn: Add Your LinkedIn Profile Here
+* LinkedIn: https://www.linkedin.com/in/hrushikesh-kontam/)
 
 ---
 
